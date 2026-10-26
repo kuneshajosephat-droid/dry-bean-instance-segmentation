@@ -58,7 +58,7 @@ Communications Biology, 3, 173.
 
 https://doi.org/10.1038/s42003-020-0905-5
 
-## Project Scope and Deliverables
+## Project experiments 
 
 ### Part 1: Pretrained Model
 1. Build the manually annotated dry bean dataset and run
