@@ -2,8 +2,7 @@
 Instance segmentation of intact and broken dry beans using Mask R-CNN in PyTorch
 # Instance Segmentation of Intact and Broken Dry Beans
 
-## Author
-Josephat Kunesha
+## Author : Josephat Kunesha
 
 ## Task
 Identify each dry bean or broken fragment in a photograph,
@@ -44,11 +43,20 @@ https://github.com/pytorch/vision
 Mask R-CNN source:
 https://github.com/pytorch/vision/blob/main/torchvision/models/detection/mask_rcnn.py
 
-## Paper  
+## Method Paper
 He, K., Gkioxari, G., Dollár, P., and Girshick, R. (2017).
 Mask R-CNN. Proceedings of ICCV, 2961–2969.
 
 https://doi.org/10.1109/ICCV.2017.322
+
+## Related Paper
+Toda, Y., Okura, F., Ito, J., Okada, S., Kinoshita, T.,
+Tsuji, H., and Saisho, D. (2020).
+Training instance segmentation neural network with synthetic
+datasets for crop seed phenotyping.
+Communications Biology, 3, 173.
+
+https://doi.org/10.1038/s42003-020-0905-5
 
 ## Project Scope and Deliverables
 
