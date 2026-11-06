@@ -91,10 +91,10 @@ Loss components include classification, box regression, mask prediction, RPN obj
 
 The script expects the corrected dataset folder to contain `images/` and `annotations/`, including `instances_all.json`, `instances_train.json`, `instances_val.json`, and `instances_test.json`.
 
-Run:
-
-```bash
+Run: ```bash
 python 01_dataset_and_untrained_baseline.py --dataset "path/to/dry_bean_dataset_corrected_196"
+
+
 
 
 ## Method Paper
