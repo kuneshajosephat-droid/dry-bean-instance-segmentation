@@ -117,9 +117,11 @@ Part 1: Transfer Learning
 1. Fine-tune the COCO-pretrained Mask R-CNN for intact and broken beans.
 2. Evaluate a research-based technique to improve the fine-tuned baseline.
 3. Deploy the model with a web interface for uploading photographs and viewing predictions.
+
 Part 2: Training from Scratch
 1. Use an AI agent, such as ChatGPT, to help design and implement a small instance segmentation network.
 2. Train the network without pretrained weights.
 3. Compare it with the fine-tuned Mask R-CNN on the same held-out test set using mask average precision, parameter count, and inference time.
+
 Current Status
 Annotation corrections, duplicate removal, dataset validation, and partitioning are complete. Pretrained inference and adapted baseline evaluation without training are complete. Fine-tuning, training from scratch, and deployment remain planned.
